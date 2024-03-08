@@ -10,6 +10,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 
 		//dev_Miroslav
+		//dev_Marsel
 	}
 
 }
